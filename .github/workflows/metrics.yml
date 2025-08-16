@@ -21,10 +21,6 @@ jobs:
 
           plugin_lines: yes            # 커밋 라인 차트
           plugin_followup: yes         # PR/이슈 follow-up
-          plugin_traffic: yes          # Repo traffic
-          plugin_languages: yes        # 언어 통계
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_limit: 6
           plugin_isocalendar: yes      # 주간 커밋 달력
           plugin_isocalendar_duration: full-year
 
