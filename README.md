@@ -72,11 +72,9 @@ CI/CD 파이프라인과 DevOps 환경을 구축하여, Docker·Terraform·GitHu
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUserName&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUserName&layout=compact&theme=radical" height="165"/>
-</p>
+## 📊 Contribution Graph
+[![Contrib Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUserName&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
