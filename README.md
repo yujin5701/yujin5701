@@ -8,10 +8,10 @@
 
 ## 👋 About Me
 저는 백엔드 개발 경험을 바탕으로 클라우드 환경에서 서비스 운영 역량을 강화해온 개발자입니다.
-Node.js와 Python 기반의 서버 개발을 넘어, AWS Lambda, API Gateway, S3, CloudFront, RDS, CloudWatch를 활용해 안정적이고 확장 가능한 클라우드 아키텍처를 직접 설계하고 운영한 경험을 보유하고 있습니다.
+Java/Kotlin Spring과 Node.js 기반의 백엔드 서버 개발과 함께 확장 가능한 클라우드 아키텍처를 직접 설계하고 운영한 경험을 보유하고 있습니다.
 
-CI/CD 파이프라인과 DevOps 환경을 구축하여, Docker·Terraform·GitHub Actions 기반의 자동화된 배포 및 인프라 관리 체계를 적용했습니다.
-또한 Prometheus, Grafana, Athena를 활용한 모니터링 및 데이터 분석 환경을 구축해 서비스 운영의 가시성과 신뢰성을 높였습니다.
+CI/CD 파이프라인과 DevOps 환경을 구축하여, Docker·GitHub Actions 기반의 자동화된 배포 및 인프라 관리 체계를 적용했습니다.
+또한 AWS, Kubernetes, Prometheus, Grafana, Athena를 활용한 모니터링 및 데이터 분석 환경을 구축해 서비스 운영의 가시성과 안정성을 높이고 있습니다.
 
 저는 단순히 백엔드 로직을 구현하는 데 그치지 않고, 클라우드 네이티브 아키텍처와 DevOps 문화를 접목해 실제 서비스가 안정적으로 성장할 수 있는 환경을 만들어내는 데 집중합니다.  
 
@@ -21,9 +21,10 @@ CI/CD 파이프라인과 DevOps 환경을 구축하여, Docker·Terraform·GitHu
 
 ### 💻 Languages
 <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
@@ -48,6 +49,7 @@ CI/CD 파이프라인과 DevOps 환경을 구축하여, Docker·Terraform·GitHu
 
 ### ☁️ Cloud & Infra
 <p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
   <img src="https://img.shields.io/badge/API%20Gateway-FF4F00?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
